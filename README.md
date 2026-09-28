@@ -8,7 +8,7 @@
 
 | 문서 | 다루는 내용 |
 | --- | --- |
-| [Kafka](./01-kafka.md) | 토픽, 파티션, 컨슈머 그룹, 전달 보장, 기존 메시지 큐와의 차이 |
+| [Kafka](./01-kafka.md) | 토픽·파티션, At least once·Exactly once, 컨슈머 상한, DLQ와 대안, 발송 전 장애 |
 | [MQTT 통신](./02-mqtt.md) | 발행/구독, QoS 0·1·2, 세션, Retain, Will, Kafka와의 차이 |
 
 ### 스프링 코어
